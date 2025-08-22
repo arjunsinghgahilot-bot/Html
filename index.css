@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color: tomato;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+
+
+
+}
